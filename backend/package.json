@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Node.js Sequelize Many to Many Association example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "sequelize",
+    "many-to-many",
+    "associations",
+    "relationship"
+  ],
+  "author": "daniel.ouattara@gmx.com",
+  "sources": "bezKoder tutorial",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.5.0"
+  }
+}
